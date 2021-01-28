@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BubbleSort</string>
+    <string name="bubbleSort_explain">Bubble sort is a sorting algorithm that repeatedly steps through a list, compares adjacent elements, and swaps them if they are in the wrong order. Click the button below to see this in action.</string>
+    <string name="bubbleSort_button">Press to sort</string>
+
+</resources>

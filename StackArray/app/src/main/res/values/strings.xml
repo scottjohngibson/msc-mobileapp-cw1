@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StackArray</string>
+    <string name="enter_value">Enter Value to Push</string>
+    <string name="pop_button">Pop</string>
+    <string name="push_button">Push</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FibonacciSeq</string>
+    <string name="app_message">Enter an integer between 0 and 15 in the text box, then click the send button.</string>
+    <string name="app_explain">The purpose of this app is to visualise the Fibonacci Sequence up until a given index.</string>
+    <string name="send_button">Send</string>
+    <string name="step_button">Step through sequence</string>
+    <string name="enter_text">Enter value</string>
+    <string name="fibonacci_explain">Starting from 0 and 1, each new number in the Fibonacci Sequence is the sum of the two preceding numbers. Use the button below to see this in action for your chosen index.</string>
+</resources>
